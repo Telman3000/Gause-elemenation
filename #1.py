@@ -1,4 +1,4 @@
-#1 Gause elemenation
+#Nuruzov Telman DSAI-03
 
 import sys
 
