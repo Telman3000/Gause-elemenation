@@ -1,3 +1,5 @@
+# Nuruzov Telman DSAI-03
+
 import sys
 
 # Status codes
